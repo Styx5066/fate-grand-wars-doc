@@ -47,6 +47,7 @@ Servant Info, Servant Dialogue, and Status Effect icons
 
 ### Sirea (m.smejkalova@gmail.com)
 Game Cursor
+
 http://www.rw-designer.com/user/5920
 
 http://www.rw-designer.com/cursor-set/mass-effect-3
