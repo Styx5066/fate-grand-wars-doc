@@ -2,7 +2,7 @@
 
 Fate/Grand Wars is a turn-based strategy game that borrows mechanics from Fate/Grand Order, the Advance Wars and Wargroove series, and other turn-based tactical games.
 
----
+----
 
 ## The Game
 
