@@ -4,7 +4,7 @@ Fate/Grand Wars is a turn-based strategy game that borrows mechanics from Fate/G
 
 ## The Game
 
-Play Fate/Grand Wars (Alpha) in your browser here.
+<a href="https://styx5066.github.io/" target="_blank">**Play Fate/Grand Wars (Alpha) here**</a>
 
 
 ### Issues
