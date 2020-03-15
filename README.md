@@ -2,10 +2,13 @@
 
 Fate/Grand Wars is a turn-based strategy game that borrows mechanics from Fate/Grand Order, the Advance Wars and Wargroove series, and other turn-based tactical games.
 
+---
+
 ## The Game
 
 <a href="https://styx5066.github.io/" target="_blank">**Play Fate/Grand Wars (Alpha) here**</a>
 
+---
 
 ### Issues
 
@@ -13,6 +16,7 @@ Fate/Grand Wars is a turn-based strategy game that borrows mechanics from Fate/G
 
 If you encounter a Freeze, press `F12` and click on the `Console` tab. Any information there should be included in the issue, and will help narrow down what went wrong.
 
+---
 
 ### Controls
 
@@ -30,6 +34,7 @@ If you encounter a Freeze, press `F12` and click on the `Console` tab. Any infor
 `Tab`
 - Scrolls battle map to center on next active unit
 
+---
 
 ## Credits
 
