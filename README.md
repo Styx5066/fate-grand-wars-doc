@@ -1,2 +1,1 @@
-# fate-grand-wars-doc
-Fate/Grand Wars
+# Fate/Grand Wars
